@@ -43,6 +43,6 @@ def pdf_generator(bin: str):
 pdf_generator('201040000013')
 ```
 
-Make sure to replace the example BIN (`'201040000013'`) with the desired Business Identification Number for which you want to generate the PDF.
+Make sure to replace the example BIN with the desired Business Identification Number for which you want to generate the PDF.
 
 Note: Adjust the path to the `wkhtmltopdf.exe` executable in the `configuration` variable based on your system configuration.
